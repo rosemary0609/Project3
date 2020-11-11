@@ -26,7 +26,13 @@
 5、在博士研究生Person类里进行异常捕获，调用try-catch方法进行异常捕获，用if-else if-else判断语句对年学费和年收入进行异常判断。  
 6、在Test测试类里，实例化博士研究生，统计他们的年收入和年学费，根据两者之差，计算每名博士研究生的年应纳税额。  
 ## 五、核心代码  
-1、![alt console]()
-
-
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5r4xXSsogjv53mEZb909Q4KNMMKtY80Vfh2Q8rGUucosjxfDWcPIxHG6IwEAG40SKqByM3vF*62D69*kFX*unyc!/b&bo=UgLAAAAAAAADB7I!&rf=viewer_4)          
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/45NBuzDIW489QBoVep5mcVrl99aEzSL08BW5m6KR5Vw3V8Phba548lMnlguf34ROmy8qbOFTdLYotLO8oCX9oXXbI1YIMJolTUz0KAld95s!/b&bo=XgPiAQAAAAADF4w!&rf=viewer_4)                 
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/45NBuzDIW489QBoVep5mcVrl99aEzSL08BW5m6KR5Vy2PwQFjZv.c*GYy8p6nrtKwNZEcCnc*sict4ZbiYg97xlJnUwHXbcVja286xuiKOk!/b&bo=9wBPAAAAAAADF4o!&rf=viewer_4)     
+## 六、运行结果  
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/ruAMsa53pVQWN7FLK88i5gOXcSEpuI7WsUhtVMjF0ahH7U5Z8VzhkGY0moQkkKIc6MHip7qXhno47C2MzPIAxXDM3IcXhptLHGQmGkwKyXM!/b&bo=gwGIAQAAAAADByk!&rf=viewer_4)     
+![alt console](http://m.qpic.cn/psc?/V53x2lrX08Z9lF4J101F42x1Bd3epC0q/45NBuzDIW489QBoVep5mcWS1zCIOX7MB3ii3YOqUOFR3MThGvr8LFsdbB*uFCsO4JDrZ4cVa4QNvWnIb.2QiQNOCFWwrw9dili2A*qr4*n8!/b&bo=NAHUAAAAAAADF9M!&rf=viewer_4)      
+## 七、感想  
+在这次接口异常处理的实验中，让我对抽象类和抽象方法的定义有了更深入的了解，掌握了在类中实现各接口定义的抽象方法，知道了如何使用static final对某一时期国家纳税标准的特定固定值的修饰定义，
+了解了用scanner类实现运行时交互式输入，调用next()方法依次返回被解析的字符序列中的单词，但在这次编写程序时，会遇到不知道如何编写计算纳税额这一功能的实现，但通过最后翻阅课本以及各种尝试编写代码，最后用if-else if-else语句进行编写，克服了这一困难。掌握了异常捕获try-catch这一用法，根据输入情况做异常处理。
 

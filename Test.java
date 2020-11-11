@@ -11,6 +11,10 @@ public class Test {
      Person stu1;
      stu1 =new Person();
      stu1.NaShuiE(stu1);
+		
+     Person stu1;
+     stu2 =new Person();
+     stu2.NaShuiE(stu2);
 	}
 
 }
